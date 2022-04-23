@@ -51,6 +51,7 @@ SELECT * FROM Persons WHERE City = 'London';
 ![WHERE_1](./WHERE_1.png)
 
 在SQL語法中也能使用AND或OR，用法與一般程式語言一樣。
+
 ![DISTINCT_1](./DISTINCT_1.png)
 
 若我想在上述表格取出公司是IBM或蘋果的紀錄，可以使用OR語法:
